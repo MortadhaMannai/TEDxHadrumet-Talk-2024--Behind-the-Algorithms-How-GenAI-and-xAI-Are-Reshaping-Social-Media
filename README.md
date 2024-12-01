@@ -5,6 +5,8 @@
 **Location:** NOVATION CITY, Sousse, Tunisia 🇹🇳  
 **Date:** 30 December 2024
 
+![image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-023-17666-y/MediaObjects/11042_2023_17666_Fig16_HTML.png)
+
 ## Overview  
 At TEDxHadrumet, I had the privilege of delivering a talk titled *"Behind the Algorithms: How Generative AI and Explainable AI Are Reshaping Social Media."* This inspiring event, organized by AIESEC Hadrumet, brought together changemakers, innovators, and visionaries to explore transformative ideas shaping our world.  
 
