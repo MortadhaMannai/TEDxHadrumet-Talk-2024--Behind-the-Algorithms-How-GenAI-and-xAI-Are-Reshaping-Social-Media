@@ -1,4 +1,4 @@
-# TEDxHadrumet-Talk-2024 Behind the Algorithms: How Generative AI and Explainable AI Are Reshaping Social Media  
+# TEDxHadrumet-Talk-2024 Behind the Algorithms: How Generative AI and Explainable AI Are Reshaping Social Media   
 
 **Speaker:** Manai Mohamed Mortadha   
 **Event:** TEDxHadrumet  
