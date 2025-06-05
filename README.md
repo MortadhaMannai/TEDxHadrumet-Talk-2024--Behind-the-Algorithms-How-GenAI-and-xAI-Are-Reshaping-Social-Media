@@ -2,7 +2,7 @@
 
 **Speaker:** Manai Mohamed Mortadha   
 **Event:** TEDxHadrumet  
-**Location:** NOVATION CITY, Sousse, Tunisia 🇹🇳  
+**Location:** NOVATION CITY, Sousse, Tunisia 🇹🇳   
 **Date:** 30 December 2024
 
 ![image](IMG_6401.jpg)
